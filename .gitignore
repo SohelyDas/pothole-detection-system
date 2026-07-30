@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Dataset
+*.zip
+datasets/
+
+# Training outputs
+runs/
+
+# OS files
+.DS_Store
+Thumbs.db
